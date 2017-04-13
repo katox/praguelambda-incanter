@@ -1,3 +1,3 @@
 # Introduction to praguelambda-incanter
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+See [src/praguelambda_incanter/core.clj](https://github.com/katox/praguelambda-incanter/blob/master/src/praguelambda_incanter/core.clj).
